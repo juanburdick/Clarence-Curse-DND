@@ -1,6 +1,4 @@
-# Cantrips
-
-## List
+### List of Cantrips
 - Eldritch Blast
 - Mage Hand
 - Blade Ward
@@ -8,7 +6,7 @@
 - Shape Water
 - Spare the Dying
 
-## Eldritch Blast
+# Eldritch Blast
 Summary: Two simultaneous ranged spell attacks. +6 to hit, 1d10 Force per beam.
 
 - Cast time: 1 action
@@ -23,7 +21,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-## Mage Hand
+# Mage Hand
 Summary: Minor physical movement at a distance. Can't deal damage.
 
 - Cast time: 1 action
@@ -53,7 +51,7 @@ Summary: One round defensive shield, resistance to nonmagical damage types.
 
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
-## Produce Flame
+# Produce Flame
 Summary: Portable torch, can throw with +6 to hit for 2d8 Fire.
 
 - Cast time: 1 action
@@ -70,7 +68,7 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-## Shape Water
+# Shape Water
 Summary: Waterbending, but no attacks.
 
 - Cast time: 1 action
@@ -91,7 +89,7 @@ You freeze the water, provided that there are no creatures in it. The water unfr
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-## Spare the Dying
+# Spare the Dying
 Summary: Stop death saves.
 
 - Cast time: 1 action

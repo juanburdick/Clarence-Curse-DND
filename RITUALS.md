@@ -1,6 +1,4 @@
-# Ritual-only Spells
-
-## Comprehend Languages
+# Comprehend Languages
 Summary: Only as ritual, meaning it takes 10 minutes.
 
 - Cast time: 10 minutes as ritual
@@ -15,7 +13,7 @@ For the duration, you understand the literal meaning of any spoken language that
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
 
-## Identify
+# Identify
 Summary: Find a source of pearls, or you're gonna be boned.
 
 - Cast time: 11 minutes as ritual
@@ -30,8 +28,8 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
 
-## Detect Magic
-Summary: Cursed magic items stay cursed, but attunements can be broken.
+# Detect Magic
+Summary: Magic radar.
 
 - Cast time: Instant-ish
 - Range/Area: Self (30 ft radius)
@@ -44,3 +42,14 @@ Summary: Cursed magic items stay cursed, but attunements can be broken.
 For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+# Acid Vial
+Summary: Vial of acid. Figure it out.
+
+- Category: Items
+- Properties: Improvised Weapon
+- Attack/Save: Ranged Attack
+- Range/Area: 20/60 ft
+- Damage/Effect: 2d6 Acid
+
+As an action, you can splash the Contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged Attack against a creature or object, treating the acid as an Improvised Weapon. On a hit, the target takes 2d6 acid damage.

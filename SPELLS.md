@@ -1,6 +1,12 @@
-# Spells (2 slots, 3rd level)
+### List of Spells (2 slots, 3rd level)
+- Counterspell
+- Dispel Magic
+- Remove Curse
+- Dissonant Whispers
+- Thunderstep
+- Hellish Rebuke
 
-## Counterspell
+# Counterspell
 Summary: Counterspell. Nuff said.
 
 - Cast time: 1 reaction*
@@ -17,8 +23,7 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 
 *which you take when you see a creature within 60 feet of you casting a spell.
 
-
-## Dispel Magic
+# Dispel Magic
 Summary: Automatically dispels equal or lower. If higher, DC 10 + level.
 
 - Cast time: 1 action
@@ -33,7 +38,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
 
-## Remove Curse
+# Remove Curse
 Summary: Cursed magic items stay cursed, but attunements can be broken.
 
 - Cast time: 1 action
@@ -46,7 +51,7 @@ Summary: Cursed magic items stay cursed, but attunements can be broken.
 
 At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
 
-## Dissonant Whispers
+# Dissonant Whispers
 Summary: This frog go crazy! and runs away while taking damage.
 
 - Cast time: 1 action
@@ -61,7 +66,7 @@ You whisper a discordant melody that only one creature of your choice within ran
 
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-## Thunder Step
+# Thunder Step
 Summary: Misty step, but a full action and it blows up.
 
 - Cast time: 1 action
@@ -78,7 +83,7 @@ You can bring along objects as long as their weight doesn’t exceed what you ca
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
 
-## Hellish Rebuke
+# Hellish Rebuke
 Summary: You kick Miette? Death
 
 - Cast time: 1 reaction*
