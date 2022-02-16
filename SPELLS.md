@@ -4,7 +4,7 @@
 - Remove Curse
 - Dissonant Whispers
 - Thunderstep
-- Hellish Rebuke
+- Armor of Agathys
 
 # Counterspell
 Summary: Counterspell. Nuff said.
@@ -83,19 +83,36 @@ You can bring along objects as long as their weight doesn’t exceed what you ca
 
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
 
-# Hellish Rebuke
+# Armor of Agathys
 Summary: You kick Miette? Death
 
-- Cast time: 1 reaction*
-- Range/Area: 60 ft
-- Components: V/S
-- Duration: Instantaneous
-- School: Evocation
-- Attack/Save: DEX save
-- Damage/Effect: 4d10 Fire
+- Cast time: 1 action
+- Range/Area: Self
+- Components: V/S/M (a cup of water)
+- Duration: 1 hour
+- School: Abjuration
+- Attack/Save: None
+- Damage/Effect: level*5 Cold
 
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increases by 5 for each slot level above 1st.
 
-*which you take in response to being damaged by a creature within 60 feet of you that you can see.
+# Magic Circle
+Summary: oshit.exe
+
+- Cast time: 1 action
+- Range/Area: 10 ft
+- Components: V/S/M (the rune)
+- Duration: 10 minutes
+- School: Abjuration
+- Attack/Save: CHA maybe
+- Damage/Effect: None
+
+You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
+
+Choose one or more of the following types of creatures: celestials, elementals, fey fiends, or undead. The circle affects a creature of the chosen type in the following ways:
+
+- The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+- The creature has disadvantage on attack rolls against targets within the cylinder.
+- Targets within the cylinder can't be charmed, frightened, or possessed by the creature.

@@ -16,11 +16,12 @@
 
 ### Spells
 - Counterspell
-- Hellish Rebuke
 - Dispel Magic
 - Remove Curse
 - Dissonant Whispers
 - Thunderstep
+- Armor of Agathys
+- Magic Circle
 
 # Permanent
 
@@ -73,11 +74,6 @@ Summary: Stabilize creature at 0. Doesn't work on undead or constructs.
 ### Counterspell - `Reaction*` Trigger is creature casting a spell within 60 ft
 Summary: Counterspell. If target is higher than slot, roll Charisma. DC 10 + the spell's level.
 
-
-### Hellish Rebuke - `Reaction*` Trigger is taking damage
-Summary: You kick Miette? Death.
-When you take damage, attacking creature makes a Dex save. On failure, 4d10 Fire damage. On success, half.
-
 ### Dispel Magic - `Action`
 Summary: Automatically dispels equal or lower. If target is higher than slot, roll Charisma. DC 10 + the effect's level.
 
@@ -90,3 +86,9 @@ Damage/Effect: 5d6 Psychic
 
 ### Thunder Step - `Action`
 Summary: Misty step up to 90 ft away, can take a willing creature with you. Deals 3d10 thunder damage to everything within 10 ft of departure space.
+
+### Armor of Agathys - `Action`
+Summary: 15 temporary hit points, for an hour. When you get hit while you have the temporary hit points, attacking creature takes 15 cold damage.
+
+### Magic Circle - `Action`
+Summany: Rune that creates a 'safe' cylinder, choose from celestial, elemental, fey, fiend, or undead. Chosen type can't enter the cylinder.
