@@ -116,3 +116,20 @@ Choose one or more of the following types of creatures: celestials, elementals, 
 - The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
 - The creature has disadvantage on attack rolls against targets within the cylinder.
 - Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
+
+# Raulothim's Psychic Lance
+Summary: Boom-Boom Man from ATLA
+
+- Cast time: 1 action
+- Range/Area: 120 ft
+- Components: V
+- Duration: Instantaneous
+- School: Enchantment
+- Attack/Save: INT save
+- Damage/Effect: 7d6 Psychic
+
+You unleash a shimmering lance of psychic power from your forehead at a creature that you can see within range. Alternatively, you can utter a creature’s name. If the named target is within range, it becomes the spell’s target even if you can’t see it. If the named target isn’t within range, the lance dissipates without effect.
+
+The target must make an Intelligence saving throw. On a failed save, the target takes 7d6 psychic damage and is incapacitated until the start of your next turn. On a successful save, the creature takes half as much damage and isn’t incapacitated.
+
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.

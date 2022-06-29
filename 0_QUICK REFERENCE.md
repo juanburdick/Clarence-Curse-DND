@@ -28,7 +28,7 @@
 ### Detect Magic - `Permanent`
 Summary: You sense the presence of, general location of, and school of any magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object generating such magic.
 
-### Acid Vials - `Ammo: x4`
+### Acid Vials - `Ammo: x3`
 Summary: The Troll Pearl generates a vial's worth of acid per long rest. Could be converted to an item with Pix.
 
 

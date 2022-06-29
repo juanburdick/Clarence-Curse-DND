@@ -17,7 +17,7 @@ Summary: Two simultaneous ranged spell attacks. +6 to hit, 1d10 Force per beam.
 - Attack/Save: Attack
 - Damage/Effect: 1d10 * 2 beams, Force
 
-A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage. 
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
 
 The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
@@ -34,7 +34,7 @@ Summary: Minor physical movement at a distance. Can't deal damage.
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 
-You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. 
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
@@ -68,26 +68,20 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-# Shape Water
-Summary: Waterbending, but no attacks.
+# Magic Stone
+Summary: Remember David and Goliath?
 
-- Cast time: 1 action
-- Range/Area: 30 ft (5ft cube)
-- Components: S
-- Duration: Instantaneous
+- Cast time: 1 bonus action
+- Range/Area: Touch
+- Components: V, S
+- Duration: 1 Minute
 - School: Transmutation
 - Attack/Save: None
-- Damage/Effect: Control
+- Damage/Effect: Throwable damage
 
-You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, it has a range of 60 feet. If someone else attacks with the pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Hit or miss, the spell then ends on the stone.
 
-  - You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
-  - You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
-  - You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
-
-You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
-
-If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+If you cast this spell again, the spell ends early on any pebbles still affected by it.
 
 # Spare the Dying
 Summary: Stop death saves.
