@@ -65,7 +65,7 @@
 >|              |     |     |   |        Survival | +3  | WIS  |
 >*Proficient **Expertise
 
-# Boons, Feats, Invocations, and Proficiences
+# Boons, Feats, Invocations, and Proficiencies
 
 ## Proficiencies and Languages
 >`Proficiency` Light Armor
