@@ -25,7 +25,7 @@
 >>- +1 to AC
 >>- On expending the last `charge`, roll a d20. On a 1, it shatters
 
-## Hydranoid Leather Armor [AC14+Dex]
+## Hydranoid Leather Armor
 >Summary: Hydra hide armor.
 >
 >>Features:
