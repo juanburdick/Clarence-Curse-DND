@@ -1,10 +1,10 @@
 # Clarence
 
-- [Details](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#details)
-- [Ability Scores](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#ability-scores)
-- [Boons, Feats, Invocations, and Proficiencies](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#)
-- [Loot](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#loot)
-- [Rune Crafting Rules](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#rune-crafting-rules)
+- [Details](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/Clarence.md#details)
+- [Ability Scores](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/Clarence.md#ability-scores)
+- [Boons, Feats, Invocations, and Proficiencies](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/Clarence.md#boons-feats-invocations-and-proficiencies)
+- [Loot](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/Clarence.md#loot)
+- [Rune Crafting Rules](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/Clarence.md#rune-crafting-rules)
 
 # Details
 >|       Meta | Data           | ~ |   Physical | Data    |
@@ -65,7 +65,7 @@
 >|              |     |     |   |        Survival | +3  | WIS  |
 >*Proficient **Expertise
 
-# Boons, Feats, and Proficiences
+# Boons, Feats, Invocations, and Proficiences
 
 ## Proficiencies and Languages
 >`Proficiency` Light Armor
