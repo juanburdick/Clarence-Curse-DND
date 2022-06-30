@@ -1,94 +1,26 @@
-# Table of Contents
-
-### Permanent/Rituals
-- Detect Magic
-- Comprehend Languages
-- Identify
-- Acid Vials
-
-### Cantrips
-- Eldritch Blast
-- Mage Hand
-- Blade Ward
-- Produce Flame
-- Shape Water
-- Spare the Dying
-
-### Spells
-- Counterspell
-- Dispel Magic
-- Remove Curse
-- Dissonant Whispers
-- Thunderstep
-- Armor of Agathys
-- Magic Circle
-
 # Permanent
-
-### Detect Magic - `Permanent`
-Summary: You sense the presence of, general location of, and school of any magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object generating such magic.
-
-### Acid Vials - `Ammo: x3`
-Summary: The Troll Pearl generates a vial's worth of acid per long rest. Could be converted to an item with Pix.
-
-
-
-# Ritual-only Spells
-
-### Comprehend Languages - `10 minutes` as ritual
-Summary: Needs a pinch of soot and salt. Automatically understand any spoken language, must touch to understand any written work. Read at 1 minute per page. Doesn't decode code.
-
-### Identify - `11 minutes` as ritual
-Summary: Needs a pearl worth 100 gp and an owl feather.
-
-If object: Learn its properties, how to use them, whether attunement, and number of charges. Also aware of spells affecting it; and if the item was created by a spell, you learn which spell created it.
-
-If creature: Learn what spells, if any, are currently affecting it.
-
-
+- `Aura` [Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic): Magic radar. Also returns school of magic detected.
+- [Ring of Shielding the Pact Keeper's Mind](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#ring-of-shielding-the-pact-keepers-mind): Telepathic defense. Regain a spell slot and/or upcast [Tasha's Mind Whip](http://dnd5e.wikidot.com/spell:tashas-mind-whip) (`INT`).
+- [Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acidic-defense-bracer): Acid [Eldritch Blast](http://www.dndbeyond.com/spells/eldritch-blast), [Mage Armor](https://www.dndbeyond.com/spells/mage-armor), or [Shield](https://www.dndbeyond.com/spells/shield)
+- [Hydranoid Leather Armor](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#hydranoid-leather-armor): On heal, get 1d6 extra
+- [Magic Circle Runes](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#magic-circle-runes): oshit buttons
+- [Acid Vials](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acid-vials): 2d6 Acid
 
 # Cantrips
+- `Bonus Action` [Magic Stone](http://dnd5e.wikidot.com/spell:magic-stone): 3 magic stones, duration 1 min, ranged attack using my spell attack bonus. 1d6+4 Bludgeoning.
+- `Action` [Blade Ward](http://dnd5e.wikidot.com/spell:blade-ward): One round defensive shield, resistance against Bludgeoning, Piercing, and Slashing from weapons.
+- `Action` [Eldritch Blast](http://dnd5e.wikidot.com/spell:eldritch-blast): Two beams, 1d10 Force per beam.
+- `Action` [Mage Hand](http://dnd5e.wikidot.com/spell:mage-hand): 30 ft range, 10 pound limit.
+- `Action` [Produce Flame](http://dnd5e.wikidot.com/spell:produce-flame): Portable torch, can attack with it for 2d8 Fire.
+- `Action` [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying): Stabilize creature at 0. Doesn't work on undead or constructs.
 
-### Eldritch Blast - `Action`
-Summary: Two simultaneous ranged spell attacks. +6 to hit, 1d10 Force per beam.
-
-### Mage Hand - `Action` to create or manipulate
-Summary: 30 ft range, 10 pound limit.
-
-### Blade Ward - `Action`
-Summary: One round defensive shield, resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
-
-### Produce Flame - `Action`
-Summary: Portable torch, can throw with +6 to hit for 2d8 Fire.
-
-### Shape Water - `Action`
-Summary: 5ft cube, can't be used to harm creatures. Can change opacity, or freeze it if it's empty.
-
-### Spare the Dying - `Action`
-Summary: Stabilize creature at 0. Doesn't work on undead or constructs.
-
-
-
-# Quick Ref: Spells (2 slots, 3rd level)
-
-### Counterspell - `Reaction*` Trigger is creature casting a spell within 60 ft
-Summary: Counterspell. If target is higher than slot, roll Charisma. DC 10 + the spell's level.
-
-### Dispel Magic - `Action`
-Summary: Automatically dispels equal or lower. If target is higher than slot, roll Charisma. DC 10 + the effect's level.
-
-### Remove Curse - `Action`
-Summary: End curses on a creature or object. Cursed magic items stay cursed, but attunements can be broken.
-
-### Dissonant Whispers - `Action`
-Summary: Psychic whispers on target creature, makes a Wisdom saving throw. Failure forces the creature to run away and 5d6 psychic damage. Success is half damage and doesn't run away.
-Damage/Effect: 5d6 Psychic
-
-### Thunder Step - `Action`
-Summary: Misty step up to 90 ft away, can take a willing creature with you. Deals 3d10 thunder damage to everything within 10 ft of departure space.
-
-### Armor of Agathys - `Action`
-Summary: 15 temporary hit points, for an hour. When you get hit while you have the temporary hit points, attacking creature takes 15 cold damage.
-
-### Magic Circle - `Action`
-Summany: Rune that creates a 'safe' cylinder, choose from celestial, elemental, fey, fiend, or undead. Chosen type can't enter the cylinder.
+# Spells (2 slots, 4rd level)
+- `Reaction` [Counterspell](http://dnd5e.wikidot.com/spell:counterspell) (`CHA`): Trigger within 60 ft. If target is higher than slot, roll `CHA` DC 10 + the spell's level.
+- `Action` [Armor of Agathys](http://dnd5e.wikidot.com/spell:armor-of-agathys): 15 temp hit points, 1 hr duration. Thorn effect for 15 Cold.
+- `Action` [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic): Automatically dispels equal or lower. If target is higher than slot, roll `CHA` DC 10 + the effect's level.
+- `Action` [Dissonant Whispers](http://dnd5e.wikidot.com/spell:dissonant-whispers) (`WIS`): 5d6 Psychic, half on success. Failure forces the creature to run away.
+- `Action` [Raulothim's Psychic Lance](http://dnd5e.wikidot.com/spell:raulothims-psychic-lance) (`INT`): 7d6 Psychic, half on success. Failure removes reactions and limits target to only one of movement, action, bonus action. Both effects end after target's turn.
+- `Action` [Remove Curse](http://dnd5e.wikidot.com/spell:remove-curse): End curses on a creature or object. Cursed magic items stay cursed, but attunements can be broken.
+- `Action` [Thunder Step](http://dnd5e.wikidot.com/spell:thunder-step) (`CON`): Misty step up to 90 ft, can take a willing creature with you. Deals 3d10 thunder damage in 10 ft radius from departure space.
+- `Ritual` [Comprehend Languages](http://dnd5e.wikidot.com/spell:comprehend-languages): Automatically understand any spoken language, must touch to understand any written work. Read at 1 minute per page. Doesn't decode code or clarify arcane.
+- `Ritual` [Identify](http://dnd5e.wikidot.com/spell:identify): Pearl (100 gp). Must touch throughout the casting. Learn what spells created or are currently affecting target. If object: Learn its properties, how to use, attunement, and number of charges.

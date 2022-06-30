@@ -1,10 +1,5 @@
 # Items
 
-- [Ring of Shielding the Pact Keeper's Mind](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#ring-of-shielding-the-pact-keepers-mind)
-- [Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acidic-defense-bracer)
-- [Hydranoid Leather Armor](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#hydranoid-leather-armor)
-- [Acid Vials](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acid-vials)
-
 ## Ring of Shielding the Pact Keeper's Mind
 >Summary: [Ring of Mind Shielding](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) and [Rod of the Pact Keeper](http://dnd5e.wikidot.com/wondrous-items:rod-of-the-pact-keeper) in one, with bonus [Tasha's Mind Whip](http://dnd5e.wikidot.com/spell:tashas-mind-whip).
 >- `Action`: Regain a warlock spell slot. `Once per long rest`
@@ -27,11 +22,15 @@
 
 ## Hydranoid Leather Armor
 >Summary: Hydra hide armor.
->
 >>Features:
 >>- Base AC 14
 >>- Resistance to Acid and Poison
 >>- Whenever you regain hit points, gain an additional 1d6 hit points
+
+## Magic Circle Runes
+>Summary: Runes that implement the defensive half of [Magic Circle](http://dnd5e.wikidot.com/spell:remove-curse) (`CHA`).
+>- `Action`: Trigger a rune
+>- `Ammo`: 3 Runes of any
 
 ## Acid Vials
 >Summary: Throwable vials of Troll Pearl Acid.
