@@ -1,37 +1,39 @@
 # Items
 
-- Ring of Shielding the Pact Keeper's Mind
-- Acidic Defense Bracer
-- Hydranoid Leather Armor
-- Acid Vials
+- [Ring of Shielding the Pact Keeper's Mind](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#ring-of-shielding-the-pact-keepers-mind)
+- [Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acidic-defense-bracer)
+- [Hydranoid Leather Armor](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#hydranoid-leather-armor)
+- [Acid Vials](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acid-vials)
 
->## Ring of Shielding the Pact Keeper's Mind - `1 per LR` `1 per LR`
+## Ring of Shielding the Pact Keeper's Mind
 >Summary: [Ring of Mind Shielding](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) and [Rod of the Pact Keeper](http://dnd5e.wikidot.com/wondrous-items:rod-of-the-pact-keeper) in one, with bonus [Tasha's Mind Whip](http://dnd5e.wikidot.com/spell:tashas-mind-whip).
+>- `Action`: Regain a warlock spell slot. `Once per long rest`
+>- `Action`: Upcast [Tasha's Mind Whip](http://dnd5e.wikidot.com/spell:tashas-mind-whip) (`INT`), granting 3 targets. `Once per long rest`
 >>Features:
+>>- +1 to spell attack rolls and spell save DC
 >>- Block incoming telepathic communication
 >>- Soul enters the ring upon death
->>- +1 to spell attack rolls and spell save DC
->>- Once per long rest: regain warlock spell slot
->>- Once per long rest: Up to 3 creatures (4th level) make INT saving throw (DC 15). 3d6 Psychic. Removes Reaction, and next turn can only have one of Movement, Action, or Bonus Action. Save is half and no negative effects.
 
->## Acidic Defense Bracer - `Charges: Up to 10, restore 1/day` `Ammo: Up to 6, restore 1/day`
+## Acidic Defense Bracer
 >Summary: Combines [Staff of Defense](https://www.dndbeyond.com/magic-items/9090-staff-of-defense) with RC's homebrewed Acid Gun, which condenses the Troll Pearl's acid into 'ammo'. Channels [Eldritch Blast](http://www.dndbeyond.com/spells/eldritch-blast).
->
+>- `Ammo`: Up to 6, regain 1 per long rest
+>- `Charges`: Up to 10, regain 1d6+4 per long rest
+>- `Action`: Expend 1 `ammo` to cast [Eldritch Blast](http://www.dndbeyond.com/spells/eldritch-blast), dealing 1d10 + 2d6 Acid instead of Force
+>- `Action`: Expend 1 `charge` to cast [Mage Armor](https://www.dndbeyond.com/spells/mage-armor)
+>- `Action`: Expend 2 `charges` to cast [Shield](https://www.dndbeyond.com/spells/shield)
 >>Features:
 >>- +1 to AC
->>- 10 `charges`, 6 `ammo`
->>- Stores 1d6+4 `charges` per day up to a max of 10.
->>- Stores 1 `ammo` per day up to a max of 6.
->>- Expend 1 `ammo` when casting [Eldritch Blast](https://www.dndbeyond.com/spells/eldritch-blast) to deal 1d10 + 2d6 Acid damage instead of Force
->>- Expend 1 `charge` to cast [Mage Armor](https://www.dndbeyond.com/spells/mage-armor) or 2 to cast [Shield](https://www.dndbeyond.com/spells/shield)
->>- On expending the last `charge`, roll a d20. On a 1, it shatters.
+>>- On expending the last `charge`, roll a d20. On a 1, it shatters
 
->## Hydranoid Leather Armor [AC14+Dex]
+## Hydranoid Leather Armor [AC14+Dex]
 >Summary: Hydra hide armor.
 >
 >>Features:
->>Resistance to Acid and Poison
->>Whenever you regain hit points, gain an additional 1d6 hit points.
+>>- Base AC 14
+>>- Resistance to Acid and Poison
+>>- Whenever you regain hit points, gain an additional 1d6 hit points
 
->## Acid Vials - `Ammo: x4`
->Summary: Throwable vials that deal 2d6 Acid damage on hit.
+## Acid Vials
+>Summary: Throwable vials of Troll Pearl Acid.
+>- `Ammo`: 4 vials
+>- `Action`: Throw a vial of acid, dealing 2d6 Acid damage on a hit
