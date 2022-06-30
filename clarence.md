@@ -2,7 +2,7 @@
 
 - [Details](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#details)
 - [Ability Scores](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#ability-scores)
-- [Boons, Feats, Invocations, and Proficiencies](https://github.com/juanburdick/clarence-Curse-DND/blob/main/Clarence.md#boons-feats-invocations-and-proficiencies)
+- [Boons, Feats, Invocations, and Proficiencies](https://github.com/juanburdick/clarence-Curse-DND/blob/main/clarence.md#boons-feats-invocations-and-proficiencies)
 - [Loot](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#loot)
 - [Rune Crafting Rules](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#rune-crafting-rules)
 
