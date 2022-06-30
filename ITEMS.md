@@ -28,7 +28,7 @@
 >>- Whenever you regain hit points, gain an additional 1d6 hit points
 
 ## Magic Circle Runes
->Summary: Runes that implement the defensive half of [Magic Circle](http://dnd5e.wikidot.com/spell:remove-curse) (`CHA`).
+>Summary: Runes that implement the defensive half of [Magic Circle](http://dnd5e.wikidot.com/spell:magic-circle) (`CHA`).
 >- `Action`: Trigger a rune
 >- `Ammo`: 3 Runes of any
 
