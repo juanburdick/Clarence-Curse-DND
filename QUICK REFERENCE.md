@@ -1,7 +1,7 @@
 # Permanent
 - `Aura` [Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic): Magic radar. Also returns school of magic detected.
 - `Action` [Ring of Shielding the Pact Keeper's Mind](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#ring-of-shielding-the-pact-keepers-mind): Telepathic defense. Regain a spell slot and/or upcast [Tasha's Mind Whip](http://dnd5e.wikidot.com/spell:tashas-mind-whip) (`INT`).
-- `Action` or `Reaction` [Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acidic-defense-bracer): Acid [Eldritch Blast](http://www.dndbeyond.com/spells/eldritch-blast), [Mage Armor](https://www.dndbeyond.com/spells/mage-armor), or [Shield](https://www.dndbeyond.com/spells/shield)
+- `Action` or `Reaction` [Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acidic-defense-bracer): Acid [Eldritch Blast](http://dnd5e.wikidot.com/spells:eldritch-blast), [Mage Armor](https://dnd5e.wikidot.com/spells:mage-armor), or [Shield](https://dnd5e.wikidot.com/spells:shield)
 - `Armor` [Hydranoid Leather Armor](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#hydranoid-leather-armor): On heal, get 1d6 extra
 - `Consumable` [Magic Circle Runes](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#magic-circle-runes): oshit buttons
 - `Consumable` [Acid Vials](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/1_ITEMS.md#acid-vials): 2d6 Acid
