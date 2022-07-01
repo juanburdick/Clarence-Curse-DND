@@ -1,13 +1,6 @@
 # Clarence
 
-- [Details](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#details)
-- [Ability Scores](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#ability-scores)
-- [Boons, Feats, Invocations, and Proficiencies](https://github.com/juanburdick/clarence-Curse-DND/blob/main/clarence.md#boons-feats-invocations-and-proficiencies)
-- [Loot](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#loot)
-- [Rune Crafting Rules](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/clarence.md#rune-crafting-rules)
-
-# Ability Scores
-### Stats
+## Stats
 >|             ~ | ~     | ~ |          ~ | ~  |
 >|            -: | :-    | - |         -: | :- |
 >|            AC | 15    | ~ | Prof Bonus | +3 |
@@ -16,30 +9,30 @@
 >|      Max Dice | 7d8   | ~ |   Hit Dice | 7  |
 >| Spell Save DC | 16    | ~ |  Spell Atk | +8 |
 
-### Scores
->|      Ability |     | Mod | ~ |         Ability | Mod | From |
->|           -: | :-  | :-: | - |              -: | :-  | :-:  |
->|     Strength | 11  | +0  |   |      Acrobatics | +0  | DEX  |
->|    Dexterity | 11  | +0  |   | Animal Handling | +3  | WIS  |
->| Constitution | 13  | +1  |   |          Arcana | +5* | INT  |
->| Intelligence | 15  | +2  |   |       Athletics | +0  | STR  |
->|       Wisdom | 16* | +3  |   |       Deception | +7* | CHA  |
->|     Charisma | 18* | +4  |   |         History | +5* | INT  |
->|       Sanity | 14* | +2  |   |         Insight | +6* | WIS  |
->|              |     |     |   |    Intimidation | +4  | CHA  |
->|      Passive |     |     |   |   Investigation | +2  | INT  |
->|   Perception | 24**|     |   |        Medicine | +3  | WIS  |
->|              |     |     |   |          Nature | +2  | INT  |
->|              |     |     |   |      Perception | +9**| WIS  |
->|              |     |     |   |     Performance | +4  | CHA  |
->|              |     |     |   |      Persuasion | +7* | CHA  |
->|              |     |     |   |        Religion | +2  | INT  |
->|              |     |     |   | Sleight of Hand | +0  | DEX  |
->|              |     |     |   |         Stealth | +0  | DEX  |
->|              |     |     |   |        Survival | +3  | WIS  |
+## Scores
+>|            Ability |      | Mod | ~ |         Ability | Mod | From |
+>|                 -: | :-   | :-: | - |              -: | :-  | :-:  |
+>|           Strength | 11   | +0  |   |      Acrobatics | +0  | DEX  |
+>|          Dexterity | 11   | +0  |   | Animal Handling | +3  | WIS  |
+>|       Constitution | 13   | +1  |   |          Arcana | +5* | INT  |
+>|       Intelligence | 15   | +2  |   |       Athletics | +0  | STR  |
+>|             Wisdom | 16*  | +3  |   |       Deception | +7* | CHA  |
+>|           Charisma | 18*  | +4  |   |         History | +5* | INT  |
+>|             Sanity | 14*  | +2  |   |         Insight | +6* | WIS  |
+>|                    |      |     |   |    Intimidation | +4  | CHA  |
+>| Passive Perception | 24** |     |   |   Investigation | +2  | INT  |
+>|                    |      |     |   |        Medicine | +3  | WIS  |
+>|                    |      |     |   |          Nature | +2  | INT  |
+>|                    |      |     |   |      Perception | +9**| WIS  |
+>|                    |      |     |   |     Performance | +4  | CHA  |
+>|                    |      |     |   |      Persuasion | +7* | CHA  |
+>|                    |      |     |   |        Religion | +2  | INT  |
+>|                    |      |     |   | Sleight of Hand | +0  | DEX  |
+>|                    |      |     |   |         Stealth | +0  | DEX  |
+>|                    |      |     |   |        Survival | +3  | WIS  |
 >*Proficient **Expertise
 
-### Characteristics
+## Characteristics
 >|       Meta | Data           | ~ |   Physical | Data    |
 >|         -: | :-             | - |         -: | :-      |
 >|       Name | Clarence       | ~ |        Age | 41      |
@@ -49,50 +42,28 @@
 >|       Race | Variant Human  | ~ | Skin Color | Tan     |
 >|  Alignment | Neutral Evil   | ~ | Hair Color | Brown   |
 
-# Loot
+## Loot
+>|         Coin |      | ~ |                          To Sell | Cost | ~ |                     Other | ~ |   Details  |
+>|           -: | :-   | - |                               -: | :-   | - |                        -: | - |   :-       |
+>|       Copper | 21   | ~ |                            Spear |      | ~ |                      Ring | H |            |
+>|       Silver | 81   | ~ |            Studded Leather Armor |      | ~ |                    Bracer | H |            |
+>|     Electrum |      | ~ |                       2x Daggers |      | ~ |               Cursed Helm | H |            |
+>|         Gold | 71   | ~ |                    4x Acid Vials |      | ~ |            Scholar's Pack | C |            |
+>|     Platinum |      | ~ |                5x Silver Daggers |      | ~ |           Jeweler's Tools | H |            |
+>| Contribution | 1500 | ~ |                     2x Crossbows |      | ~ |           Tentacled Acorn | C | Fist-sized |
+>|              |      | ~ |      14x Silvered Crossbow Bolts |      | ~ |     Blood Paint Goop Vial | C |            |
+>|              |      | ~ |         2x Normal Crossbow Bolts |      | ~ |       Jellyfish Dust Vial | C |            |
+>|              |      | ~ |                      Chain Shirt |      | ~ |       3x Black Muck Vials | C |            |
+>|              |      | ~ |                     5x Dull Gems |      | ~ | Purple Skeleton Dust Vial | C |            |
+>|              |      | ~ |        Quality Chain Mail (worn) |      | ~ |       3x Enchanted Plates | C | Abjuration |
+>|              |      | ~ |      Decorated Rapier (acidworn) |      | ~ |                           |   |            |
+>|              |      | ~ | Purple Drawstring Bag of Marbles |      | ~ |                           |   |            |
+>|              |      | ~ |           "The King" Hollow Book |      | ~ |                           |   |            |
+>|              |      | ~ | "Wolf and the Were" Erotic Novel |      | ~ |                           |   |            |
+>|              |      | ~ |                  2x Erotic Novel |      | ~ |                           |   |            |
+>|              |      | ~ |                    Leather Armor |      | ~ |                           |   |            |
 
-### Money
->|         Coin |      | ~ |                     To Sell | Cost | ~ | Other | ~ |   Details |
->|           -: | :-   | - |                          -: | :-   | - |    -: | - |   :-      |
->|       Copper | 21   | ~ |                       Spear |      | ~ |  Ring | H | See items |
->|       Silver | 81   | ~ |       Studded Leather Armor |      | ~ |       |   |           |
->|     Electrum |      | ~ |                  2x Daggers |      | ~ |       |   |           |
->|         Gold | 71   | ~ |               4x Acid Vials |      | ~ |       |   |           |
->|     Platinum |      | ~ |           5x Silver Daggers |      | ~ |       |   |           |
->| Contribution | 1500 | ~ |                2x Crossbows |      | ~ |       |   |           |
->|              |      | ~ | 14x Silvered Crossbow Bolts |      | ~ |       |   |           |
->|              |      | ~ |    2x Normal Crossbow Bolts |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
->|              |      | ~ |         14x Silver Quarrels |      | ~ |       |   |           |
-
-### On hand
->- 1 chain shirt
->- 5 dull gems
->- 1 vial blood paint goop
->- purple skeleton dust
->- cursed helmet
-
-### In cart
->- mule and a cart
->- scholar's pack
->- jeweler's tools
->- 1 vial jellyfish dust
->- 3 vials black muck
->- quality chain mail, slightly degraded
->- rapier, decorations acid washed
->- fist sized tentacle-y acorn thing
->- purple drawstring bag with marbles
->- 'The King' hollow interior
->- several erotic novels (wolf and the were)
->- 3 enchanted abjuration plates
->- leather armor
-
-# Details
+## Details
 
 ### Proficiencies and Languages
 >`Proficiency` Light Armor
