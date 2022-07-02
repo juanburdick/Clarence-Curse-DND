@@ -1,5 +1,7 @@
 |         Type|Action|Source|
 |           -:|:-|:-|
+|      Trigger|[High Hit => Crit](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|[Lethality Writ Large](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|
+|      Trigger|[Impede Saving Throws](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|[Fell the Enemy](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|
 |         Aura|[Detect Magic](http://dnd5e.wikidot.com/spell:detect-magic)|[Eldritch Sight](http://dnd5e.wikidot.com/warlock:eldritch-invocations)|
 |       Static|[Heal Extra](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#hydranoid-leather-armor)|[Hydranoid Leather Armor](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#hydranoid-leather-armor)|
 |     Reaction|[Shield](https://dnd5e.wikidot.com/spell:shield)|[Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acidic-defense-bracer)|

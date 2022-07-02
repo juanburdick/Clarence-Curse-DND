@@ -19,6 +19,7 @@
 >>Features:
 >>- +1 to AC
 >>- On expending the last `charge`, roll a d20. On a 1, it shatters
+>>- `MOD: Swift` When an attack with this weapon misses, gain advantage on the next attack roll against the same target
 
 ## Hydranoid Leather Armor
 >Summary: Hydra hide armor.
@@ -36,3 +37,7 @@
 >Summary: Throwable vials of Troll Pearl Acid.
 >- `Ammo`: 4 vials
 >- `Action`: Throw a vial of acid, dealing 2d6 Acid damage on a hit
+
+## Lifestone
+>Summary: If damage would bring you to 0 while you have a Lifestone, it brings you to 1 instead and the stone shatters.
+>- Can only have 1, multiples nullify each other

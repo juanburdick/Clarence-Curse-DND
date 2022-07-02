@@ -1,7 +1,7 @@
 # Cantrips
 - `Bonus Action` [Magic Stone](http://dnd5e.wikidot.com/spell:magic-stone): 3 magic stones, duration 1 min, ranged attack using my spell attack bonus. 1d6+4 Bludgeoning.
 - `Action` [Blade Ward](http://dnd5e.wikidot.com/spell:blade-ward): One round defensive shield, resistance against Bludgeoning, Piercing, and Slashing from weapons.
-- `Action` [Eldritch Blast](http://dnd5e.wikidot.com/spell:eldritch-blast): Two beams, 1d10 Force per beam.
+- `Action` [Eldritch Blast](http://dnd5e.wikidot.com/spell:eldritch-blast): Two beams, 1d10 + `CHA` Force per beam.
 - `Action` [Mage Hand](http://dnd5e.wikidot.com/spell:mage-hand): 30 ft range, 10 pound limit.
 - `Action` [Produce Flame](http://dnd5e.wikidot.com/spell:produce-flame): Portable torch, can attack with it for 2d8 Fire.
 - `Action` [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying): Stabilize creature at 0. Doesn't work on undead or constructs.
@@ -46,6 +46,23 @@
 >>Features:
 >>- +3 cantrips from any spell list
 >>- If the book is lost, a one hour ceremony can replace, turning the previous book to ash
+
+> `Hunter` Homebrew: Lethality Writ Large
+>>Once per Long Rest, when your attack roll against a creature is 10 higher than their armor class, you can make that attack a critical hit.
+
+> `Hunter` Homebrew: Chosen Prey
+>>Select one creature type to be your Chosen Prey. `Humanoid`
+>
+>>Features:
+>>- +2 to your attack and damage rolls against Chosen Prey
+
+> `Hunter` Homebrew: Hunter Points
+>>You have 2 hunter points. You regain all of your expended hunter point when you finish a long rest.
+
+> `Hunter` Homebrew: Fell The Enemy
+>>Expend Hunter Point
+>>
+>>When a creature succeeds a saving throw against an effect caused by you, you can expend one hunter point to impede its efforts, possibly causing it to fail. That creature’s saving throw is reduced by 1d6. The reduction is doubled against your chosen prey.
 
 # Invocations
 > `Invocation` [Eldritch Sight](http://dnd5e.wikidot.com/warlock:eldritch-invocations)
