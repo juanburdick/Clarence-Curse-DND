@@ -1,4 +1,4 @@
-|         Type|Action|Source|
+|         Type|Action|Source/Ammo Remaining|
 |           -:|:-|:-|
 |      Trigger|[High Hit => Crit](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|[Lethality Writ Large](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|
 |      Trigger|[Impede Saving Throws](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|[Fell the Enemy](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/SPELLS_AND_BOONS.md#boons)|
@@ -7,14 +7,16 @@
 |     Reaction|[Shield](https://dnd5e.wikidot.com/spell:shield)|[Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acidic-defense-bracer)|
 |     Reaction|[Counterspell](http://dnd5e.wikidot.com/spell:counterspell)|
 | Bonus Action|[Magic Stone](http://dnd5e.wikidot.com/spell:magic-stone)|
-|   Consumable|[Magic Circle Runes](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#magic-circle-runes)|
-|   Consumable|[Acid Vials](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acid-vials)|
+|   Consumable|[Rune Circles](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#magic-circle-runes)| 3/1/1/1 |
+|   Consumable|[Rune Armor](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#armor-of-agathys-runes)| 4 |
+|   Consumable|[Acid Vials](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acid-vials)| 2 |
 |       Ritual|[Comprehend Languages](http://dnd5e.wikidot.com/spell:comprehend-languages)|
 |       Ritual|[Identify](http://dnd5e.wikidot.com/spell:identify) (`Pearl`)|
 |Charge Action|[Mage Armor](https://dnd5e.wikidot.com/spell:mage-armor)|[Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acidic-defense-bracer)|
 |  Ammo Action|[Acid Eldritch Blast](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acidic-defense-bracer)|[Acidic Defense Bracer](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#acidic-defense-bracer)|
 | 1/day Action|[Regain a spell slot](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#ring-of-shielding-the-pact-keepers-mind)|[Ring of Shielding the Pact Keeper's Mind](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#ring-of-shielding-the-pact-keepers-mind)|
 | 1/day Action|[Tasha's Mind Whip](http://dnd5e.wikidot.com/spell:tashas-mind-whip) (`INT`)|[Ring of Shielding the Pact Keeper's Mind](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#ring-of-shielding-the-pact-keepers-mind)|
+| 1/day Action|[Flaming Skulls](http://dnd5e.wikidot.com/spell:flaming-sphere) (`DEX`)|[Flaming Skull Orbs](https://github.com/juanburdick/Clarence-Curse-DND/blob/main/ITEMS.md#flaming-skull-orbs)|
 
 # Actions
 

@@ -21,6 +21,12 @@
 >>- On expending the last `charge`, roll a d20. On a 1, it shatters
 >>- `MOD: Swift` When an attack with this weapon misses, gain advantage on the next attack roll against the same target
 
+## Flaming Skull Orbs
+>Summary: Small carved skull gems. Creates two [Flaming Spheres](https://dnd5e.wikidot.com/spell:flaming-sphere).
+>- `Action`: Throw the gems to cast [Flaming Spheres](https://dnd5e.wikidot.com/spell:flaming-sphere) `DEX`, maintaining two spheres. `Once per long rest`
+>>Features:
+>>- Doesn't require concentration
+
 ## Hydranoid Leather Armor
 >Summary: Hydra hide armor.
 >>Features:
@@ -32,6 +38,14 @@
 >Summary: Runes that implement the defensive half of [Magic Circle](http://dnd5e.wikidot.com/spell:magic-circle) (`CHA`).
 >- `Action`: Trigger a rune
 >- `Ammo`: 3 Runes of any
+>- `Ammo`: 1 Rune against Tzastin
+>- `Ammo`: 1 Rune against Resryn
+>- `Ammo`: 1 Rune against Hess
+
+## Armor of Agathys Runes
+>Summary: Runes that cast [Armor of Agathys](http://dnd5e.wikidot.com/spell:armor-of-agathys) at level = 1/2 highest spell slot.
+>- `Action`: Trigger a rune
+>- `Ammo`: 4 Runes of 2nd level
 
 ## Acid Vials
 >Summary: Throwable vials of Troll Pearl Acid.

@@ -43,25 +43,21 @@
 >|  Alignment | Neutral Evil   | ~ | Hair Color | Brown   |
 
 ## Loot
->|         Coin |      | ~ |                          To Sell | Cost | ~ |                     Other | ~ |   Details  |
->|           -: | :-   | - |                               -: | :-   | - |                        -: | - |   :-       |
->|       Copper | 21   | ~ |                            Spear |      | ~ |                      Ring | H |            |
->|       Silver | 81   | ~ |            Studded Leather Armor |      | ~ |                    Bracer | H |            |
->|     Electrum |      | ~ |                       2x Daggers |      | ~ |               Cursed Helm | H |            |
->|         Gold | 71   | ~ |                    4x Acid Vials |      | ~ |            Scholar's Pack | C |            |
->|     Platinum |      | ~ |                5x Silver Daggers |      | ~ |           Jeweler's Tools | H |            |
->| Contribution | 1500 | ~ |                     2x Crossbows |      | ~ |           Tentacled Acorn | C | Fist-sized |
->|              |      | ~ |      14x Silvered Crossbow Bolts |      | ~ |     Blood Paint Goop Vial | C |            |
->|              |      | ~ |         2x Normal Crossbow Bolts |      | ~ |       Jellyfish Dust Vial | C |            |
->|              |      | ~ |                      Chain Shirt |      | ~ |       3x Black Muck Vials | C |            |
->|              |      | ~ |                     5x Dull Gems |      | ~ | Purple Skeleton Dust Vial | C |            |
->|              |      | ~ |        Quality Chain Mail (worn) |      | ~ |       3x Enchanted Plates | C | Abjuration |
->|              |      | ~ |      Decorated Rapier (acidworn) |      | ~ |                           |   |            |
->|              |      | ~ | Purple Drawstring Bag of Marbles |      | ~ |                           |   |            |
->|              |      | ~ |           "The King" Hollow Book |      | ~ |                           |   |            |
->|              |      | ~ | "Wolf and the Were" Erotic Novel |      | ~ |                           |   |            |
->|              |      | ~ |                  2x Erotic Novel |      | ~ |                           |   |            |
->|              |      | ~ |                    Leather Armor |      | ~ |                           |   |            |
+>|         Coin |      | ~ |                     To Sell | Cost | ~ |                      Other | ~ | Details    |
+>|           -: | :-   | - |                          -: | :-   | - |                         -: | - | :-         |
+>|       Copper | 21   | ~ |           1x Silver Daggers | 50gp | ~ |                       Ring | H |            |
+>|       Silver | 25   | ~ |                5x Dull Gems | 10gp | ~ |                     Bracer | H |            |
+>|     Electrum |      | ~ |                1x Crossbows | 15gp | ~ |                Cursed Helm | H |            |
+>|         Gold | 15   | ~ |  3x Silvered Crossbow Bolts | 7gp  | ~ |             Scholar's Pack | C |            |
+>|     Platinum | 1    | ~ |               Leather Armor | 10gp | ~ |            Jeweler's Tools | H |            |
+>| Contribution | 100  | ~ |               4x Acid Vials |      | ~ | 8x Armor Shattered by Cold | C | Crafting   |
+>|              |      | ~ |      "The King" Hollow Book |      | ~ |      Blood Paint Goop Vial | C |            |
+>|              |      | ~ |       Purple Bag of Marbles |      | ~ |        Jellyfish Dust Vial | C |            |
+>|              |      | ~ | Decorated Rapier (acidworn) |      | ~ |        3x Black Muck Vials | C |            |
+>|              |      | ~ |                             |      | ~ |           9x Glass Marbles | H |            |
+>|              |      | ~ |                             |      | ~ |        2x Enchanted Plates | C | Abjuration |
+>|              |      | ~ |                             |      | ~ |  Purple Skeleton Dust Vial | C | Evocation, Fire (black powder) |
+>|              |      | ~ |                             |      | ~ |            Tentacled Acorn | H | Fist-sized, Aberration, dangerous, requires more research, gain benefits from implanting into body, needs to be watered with blood of a creature to absorb properties |
 
 ## Details
 

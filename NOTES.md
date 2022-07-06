@@ -24,6 +24,9 @@
 >Flesh parts unveiling
 >White stone.
 
+### Guild
+- Wizened Guildmistress pushed around in a wheelchair by an auburn-haired elven woman
+
 ### Other
 - undead necromancer who animated the head had a withered face with a hole in cheek
 
