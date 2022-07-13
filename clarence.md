@@ -4,8 +4,8 @@
 >|             ~ | ~     | ~ |          ~ | ~  |
 >|            -: | :-    | - |         -: | :- |
 >|            AC | 15    | ~ | Prof Bonus | +3 |
->|         Speed | 30 ft | ~ |    Temp HP |    |
->|        HP Max | 42    | ~ |    Curr HP | 42 |
+>|         Speed | 30 ft | ~ |    Temp HP | 17 |
+>|        HP Max | 42    | ~ |    Curr HP | 47 |
 >|      Max Dice | 7d8   | ~ |   Hit Dice | 7  |
 >| Spell Save DC | 16    | ~ |  Spell Atk | +8 |
 
