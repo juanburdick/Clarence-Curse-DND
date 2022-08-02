@@ -1,12 +1,17 @@
 # Clarence
 
+## Current
+>|             ~ | ~     | ~ |          ~ | ~  |
+>|            -: | :-    | - |         -: | :- |
+>|   Spell Slots | 2     | ~ |    Curr HP | 42 |
+>|      Hit Dice | 5     | ~ |    Temp HP |    |
+
 ## Stats
 >|             ~ | ~     | ~ |          ~ | ~  |
 >|            -: | :-    | - |         -: | :- |
->|            AC | 15    | ~ | Prof Bonus | +3 |
->|         Speed | 30 ft | ~ |    Temp HP |    |
->|        HP Max | 42    | ~ |    Curr HP | 42 |
->|      Max Dice | 7d8   | ~ |   Hit Dice | 5  |
+>|Spell Slot Max | 2     | ~ | Prof Bonus | +3 |
+>|         Speed | 30 ft | ~ |         AC | 15 |
+>|  Hit Dice Max | 7d8   | ~ |     Max HP | 42 |
 >| Spell Save DC | 16    | ~ |  Spell Atk | +8 |
 
 ## Scores
